@@ -1,5 +1,3 @@
-
-
 ```markdown
 # 📄 PDF File Processing and Relabeling Script
 
@@ -74,6 +72,5 @@ For a file named `row 189.pdf`, the script will:
 ## 📂 File Organization After Processing:
 - **Updated PDF files** with new row numbers.
 - **Renamed files** that follow a consistent naming pattern (e.g., `row 188.pdf`, `row 189.pdf`, etc.).
-
----
+```
 
