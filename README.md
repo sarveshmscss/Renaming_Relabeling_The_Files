@@ -2,7 +2,7 @@
 # 📄 PDF File Processing and Relabeling Script
 
 ## 📝 Overview
-This script automates the process of manipulating and relabeling PDF files in a directory. It performs three main tasks:
+These scripts automates the process of manipulating and relabeling PDF files in a directory. It performs three main tasks:
 
 ### 1. **🔍 Open PDF Files in Microsoft Edge**
 The script starts by scanning a specific directory for `.pdf` files. It then opens each of these PDF files in Microsoft Edge for review or inspection.
@@ -72,5 +72,4 @@ For a file named `row 189.pdf`, the script will:
 ## 📂 File Organization After Processing:
 - **Updated PDF files** with new row numbers.
 - **Renamed files** that follow a consistent naming pattern (e.g., `row 188.pdf`, `row 189.pdf`, etc.).
-```
-
+  
