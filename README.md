@@ -1,4 +1,4 @@
-```markdown
+
 # 📄 PDF File Processing and Relabeling Script
 
 ## 📝 Overview
