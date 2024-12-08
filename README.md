@@ -35,7 +35,7 @@ After processing the PDF files, the script performs file renaming in the directo
 ## 🛠️ Requirements:
 - **Python 3.x**.
 - **PyMuPDF (fitz)**: For PDF file manipulation. You can install it using:
-  ```bash
+  ```
   pip install pymupdf
   ```
 - **Microsoft Edge**: Must be installed and accessible from the command line as `msedge`.
