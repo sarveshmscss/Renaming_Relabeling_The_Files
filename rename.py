@@ -1,7 +1,7 @@
 import os
 
 
-directory = r"C:\Users\sarve\OneDrive\Desktop\sar"
+directory = r"C:\Users\sarve\OneDrive\Desktop\86-120 (change -1)"
 
 
 for filename in sorted(os.listdir(directory), reverse=True):
@@ -11,7 +11,7 @@ for filename in sorted(os.listdir(directory), reverse=True):
         file_extension = os.path.splitext(filename)[1] 
 
         
-        if 184 <= row_number <= 244:
+        if 86 <= row_number <= 120:
             new_row_number = row_number - 1  
             new_filename = f"row {new_row_number}{file_extension}"
             temp_filename = f"temp_{new_row_number}{file_extension}"  
